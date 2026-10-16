@@ -1,0 +1,9 @@
+path: dataset
+
+train: train/images
+val: valid/images
+
+names:
+  0: class0
+  1: class1
+  2: class2
